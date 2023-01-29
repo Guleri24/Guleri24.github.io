@@ -1,3 +1,4 @@
+<pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ Student Trainee @ Nokia
