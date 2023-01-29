@@ -1,8 +1,3 @@
-<pre>
-<p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/43719098/215338829-9336cb82-c52b-4f84-b887-2482d268f0ae.jpeg">
-</p>
-
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ Student Trainee @ Nokia
